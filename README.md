@@ -1,4 +1,4 @@
-# [Título del trabajo]
+# [Trabajo Informática]
 
 [Descripción breve del proyecto a realizar (2-3 frases).]
 
