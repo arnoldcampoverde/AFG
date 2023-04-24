@@ -1,6 +1,6 @@
 # Trabajo Informática
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+El trabajo consiste en utilizar los datos disponibles en la página web de Red Eléctrica Española sobre la generación de energía eléctrica en España para desarrollar un programa en C. Este programa debe permitir cargar los datos de un fichero seleccionado por el usuario, realizar cálculos estadísticos, buscar y ordenar valores, y guardar resultados. 
 
 ## Integrantes del equipo
 
